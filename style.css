@@ -1,0 +1,10 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+main{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 300px 100px;
+    background-size: 100%;
+}
